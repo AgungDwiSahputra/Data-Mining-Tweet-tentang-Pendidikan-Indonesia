@@ -1,4 +1,8 @@
+ada
+dengan
+tidak
 saya
+jadi
 kamu
 dia
 kita
@@ -109,15 +113,12 @@ nasi
 mie
 roti
 susu
-teh
 kopi
-air
 gula
 garam
 lada
 bawang
 cokelat
-es
 panas
 pedas
 manis
@@ -350,8 +351,6 @@ tanah
 batu
 pasir
 debu
-api
-api unggun
 asap
 angin
 awan
@@ -373,7 +372,6 @@ kupu-kupu
 nyamuk
 semut
 lebah
-ulat
 kupu-kupu
 tikus
 ular
