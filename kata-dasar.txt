@@ -68,6 +68,7 @@ motor
 pesawat
 kapal
 kereta
+terbatas
 bus
 mall
 pasar
@@ -83,7 +84,6 @@ polisi
 tentara
 pakaian
 sepatu
-tas
 jam
 dompet
 uang
@@ -102,13 +102,9 @@ email
 surat
 makanan
 minuman
-sayur
 buah
-daging
-ikan
 telur
 nasi
-mie
 roti
 susu
 kopi
@@ -191,7 +187,6 @@ pasti
 belum
 sudah
 bisa
-tidak
 ya
 tidak
 mungkin
@@ -373,8 +368,6 @@ tikus
 ular
 buaya
 singa
-harimau
-gajah
 jerapah
 monyet
 kera
@@ -389,17 +382,14 @@ laba-laba
 kumbang
 belalang
 kelinci
-binatang peliharaan
 anjing
 kucing
 ikan hias
 burung parkit
-hamster
 kelinci
 kura-kura
 ular
 tarantula
-cacing
 tumbuhan
 pohon
 bunga
@@ -411,7 +401,6 @@ anggrek
 mawar
 melati
 teratai
-bunga matahari
 tulip
 daisy
 padi
@@ -422,13 +411,11 @@ wortel
 tomat
 brokoli
 selada
-bawang putih
 jahe
 kayu manis
 lada
 cengkeh
 kayu
-bambu
 rotan
 kertas
 batu
@@ -443,21 +430,16 @@ kaca
 keramik
 tenis
 sepak bola
-basket
 voli
 golf
 renang
 lari
 tinju
-bulu tangkis
-tenis meja
 judo
 karate
 taekwondo
 senam
 yoga
-sepak takraw
-polo air
 bersepeda
 hiking
 mendaki
@@ -472,5 +454,4 @@ menggambar
 memasak
 menjahit
 mengemudi
-bermain musik
 menyanyi
