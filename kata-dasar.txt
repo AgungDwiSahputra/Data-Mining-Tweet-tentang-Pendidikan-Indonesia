@@ -404,7 +404,6 @@ tumbuhan
 pohon
 bunga
 rumput
-daun
 batang
 akar
 tanaman
