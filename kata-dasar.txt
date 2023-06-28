@@ -314,7 +314,6 @@ mie
 roti
 susu
 kopi
-air
 gula
 garam
 lada
