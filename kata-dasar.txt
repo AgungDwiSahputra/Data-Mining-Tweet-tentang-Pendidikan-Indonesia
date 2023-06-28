@@ -474,36 +474,3 @@ menjahit
 mengemudi
 bermain musik
 menyanyi
-menonton film
-bermain game
-bermain kartu
-bermain catur
-bermain badminton
-bermain sepak bola
-bermain voli
-bermain basket
-bermain tenis
-bermain bulu tangkis
-bermain golf
-bermain billiard
-bermain dart
-bermain bowling
-bermain panahan
-bermain memanah
-bermain tenis meja
-bermain polo air
-bermain panahan
-bermain anggar
-bermain berburu
-bermain memancing
-bermain hiking
-bermain mendaki
-bermain fotografi
-bermain melukis
-bermain menari
-bermain membaca
-bermain menulis
-bermain menggambar
-bermain memasak
-bermain menjahit
-bermain mengemudi
